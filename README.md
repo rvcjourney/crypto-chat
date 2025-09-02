@@ -1,5 +1,7 @@
 # 🔐 Java Encrypted Chat (AES + Socket Programming)
 
+> **Note:** Download and test **only** the files `S2Server.java` and `C2Client.java`.
+
 This project demonstrates a simple **client-server chat application** in Java that uses **AES encryption** to secure communication over sockets.  
 
 The **server** generates a secret AES key, encrypts outgoing messages, and shares the key with the client (Base64-encoded).  
